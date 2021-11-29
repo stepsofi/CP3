@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Computer
+comment1.params=dgpu\ os\ YearOfAssembly\ typeOfMemory\ isLaptop\ ram
+comment1.target=Computer(boolean,\ java.lang.String,\ int,\ java.lang.String,\ boolean,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getOs()
+comment3.params=
+comment3.target=java.lang.String\ getProcessorProducer()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
